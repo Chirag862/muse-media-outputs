@@ -4,10 +4,10 @@
   "prompt": "Photorealistic live-action vertical 9:16 Western, 10 seconds, muted natural desert colors at sunrise, no music, only wind, horse breath and boots. A remote Arizona-style ranch with a wooden house, a corral and an old stone well in the yard. A widowed American rancher around fifty, gray stubble, faded gray ranch shirt, worn tan hat, stands on his porch holding a tin cup. Shot list: 0-2s close-up of the rancher handing the cup of water to a young Native American woman with long dark hair, practical earth-tone frontier clothes and a small turquoise necklace; 2-4s medium two-shot, she drinks and looks past him; 4-6s over-the-shoulder shots, then a wide view of calm mounted Native American riders appearing silently along the ridge at sunrise, never aggressive. RANCHER: \"Why are your riders surrounding my ranch?\" WOMAN: \"They're not surrounding you.\" RANCHER: \"Then who?\" She looks toward the well. 6-8s insert of the well water spinning backward, ranch horses pressing against the corral rail; 8-10s wide shot of every rider facing the well, then the rancher's face reaction, hard cut. Continuity: same rancher, woman, necklace and well in every shot, about thirty riders in total. Real skin texture, real horse anatomy, no CGI look, no morphing, no duplicate characters, no text, no watermark.",
   "aspect_ratio": "9:16",
   "duration": 10,
-  "status": "queued",
+  "status": "done",
   "created_at": "2026-11-24T20:43:19Z",
-  "updated_at": "2026-11-24T20:43:19Z",
+  "updated_at": "2026-11-24T20:57:16Z",
   "error": null,
-  "output_file": null,
-  "github_url": null
+  "output_file": "video-60626c8d3c06.mp4",
+  "github_url": "https://raw.githubusercontent.com/Chirag862/muse-media-outputs/main/outputs/video-60626c8d3c06.mp4"
 }

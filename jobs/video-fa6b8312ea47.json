@@ -4,10 +4,10 @@
   "prompt": "Photorealistic live-action vertical 9:16 Western, 10 seconds, muted natural desert colors, late afternoon, no music, only wind and boots. A dry New Mexico-style ranch with a weathered wooden barn and a mesa behind it. A sun-weathered American rancher in his late thirties, dusty stubble, faded tan ranch shirt, worn cream hat, leather gloves, lifts the last of seven flat gray stones from a circle in the dirt. Shot list: 0-2s close insert of gloved hands lifting the seventh stone; 2-4s medium two-shot as an elderly Native American elder with long gray hair, deeply lined face, earth-tone clothing and a turquoise bead necklace grabs the rancher's arm; 4-6s over-the-shoulder and reverse close-ups. ELDER: \"Put that stone back.\" RANCHER: \"It's only a rock.\" ELDER: \"No. It was a lock.\" 6-8s ground-level shot, dust rises without wind, the rancher's horse freezes and pulls back, cattle all turn to face the mesa; 8-9s wide low-angle shot, a huge pale antlered silhouette stands on the mesa ridge against the sky; 9-10s rancher's face reaction, eyes widening, hard cut. Continuity: exactly seven stones, same faces, clothing and horse throughout. Real skin texture, real horse anatomy, no CGI look, no morphing, no extra characters, no text, no watermark.",
   "aspect_ratio": "9:16",
   "duration": 10,
-  "status": "queued",
+  "status": "done",
   "created_at": "2026-11-24T20:43:19Z",
-  "updated_at": "2026-11-24T20:43:19Z",
+  "updated_at": "2026-11-24T20:57:16Z",
   "error": null,
-  "output_file": null,
-  "github_url": null
+  "output_file": "video-fa6b8312ea47.mp4",
+  "github_url": "https://raw.githubusercontent.com/Chirag862/muse-media-outputs/main/outputs/video-fa6b8312ea47.mp4"
 }

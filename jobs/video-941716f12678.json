@@ -4,10 +4,10 @@
   "prompt": "Photorealistic live-action vertical 9:16 Western, 10 seconds, muted natural colors, midnight lit only by one oil lantern, no music, only wind, wood creaks and horse breath. A weathered frontier ranch house with a corral outside. A female American rancher in her late thirties, dark braid, dusty gray work shirt, leather vest, holds a small wooden box sealed with black wax and wrapped in red thread. A Native American woman in her twenties, long dark hair, earth-tone clothes and a turquoise necklace, stands at the door. Shot list: 0-2s extreme close-up of the box on a wooden table, wax seal intact; 2-5s medium two-shot, close-ups and reverse close-ups. NATIVE WOMAN: \"Keep it closed until sunrise.\" RANCHER: \"What's inside?\" NATIVE WOMAN: \"Something that listens.\" 5-7s insert of the lantern flame leaning downward, the box vibrating slightly; 7-9s through the window, all the ranch horses in the corral face the house, motionless; 9-10s rancher's face reaction as a row of dark rider silhouettes stands behind the horses, hard cut. Continuity: same two women, box, lantern and clothes in every shot. Real skin texture, no CGI look, no morphing, no duplicate characters, no text, no watermark.",
   "aspect_ratio": "9:16",
   "duration": 10,
-  "status": "queued",
+  "status": "done",
   "created_at": "2026-11-24T20:43:19Z",
-  "updated_at": "2026-11-24T20:43:19Z",
+  "updated_at": "2026-11-24T20:57:16Z",
   "error": null,
-  "output_file": null,
-  "github_url": null
+  "output_file": "video-941716f12678.mp4",
+  "github_url": "https://raw.githubusercontent.com/Chirag862/muse-media-outputs/main/outputs/video-941716f12678.mp4"
 }

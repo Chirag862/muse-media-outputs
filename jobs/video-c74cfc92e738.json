@@ -4,10 +4,10 @@
   "prompt": "Photorealistic live-action vertical 9:16 Western, 10 seconds, muted natural colors, deep blue night with one porch lantern, no music, only wind, boots and a distant coyote. A ranch porch and gate on a desert plain. An American cowboy in his thirties, scruffy beard, torn cream shirt, worn gray hat, helps a wounded Native American rider in his early thirties, long dark hair, earth-tone clothing, up the porch steps; the rider's brown horse stands tied nearby. Shot list: 0-2s wide shot of the cowboy holding an unlit lantern; 2-4s close-up of the rider gripping the cowboy's wrist; 4-7s two-shot and reverse close-ups. RIDER: \"Don't light the lantern.\" COWBOY: \"It's pitch dark.\" RIDER: \"That's why.\" 7-8s ground-level insert, hoofprints appear in the dust toward the gate but no animal is there; 8-9s the brown horse trembles while a riderless black horse stands at the gate, its shadow stretching longer than it should; 9-10s cowboy face reaction, hard cut. Continuity: same cowboy, rider, brown horse and lantern throughout. Real skin and horse anatomy, no CGI look, no morphing, no extra horses beyond the two described, no text, no watermark.",
   "aspect_ratio": "9:16",
   "duration": 10,
-  "status": "queued",
+  "status": "done",
   "created_at": "2026-11-24T20:43:19Z",
-  "updated_at": "2026-11-24T20:43:19Z",
+  "updated_at": "2026-11-24T20:57:16Z",
   "error": null,
-  "output_file": null,
-  "github_url": null
+  "output_file": "video-c74cfc92e738.mp4",
+  "github_url": "https://raw.githubusercontent.com/Chirag862/muse-media-outputs/main/outputs/video-c74cfc92e738.mp4"
 }
