@@ -1,0 +1,13 @@
+{
+  "job_id": "video-094ce9ffe1c2",
+  "type": "video",
+  "prompt": "Fictional dashcam-style recreation in the style of Dashcam Lessons, fixed dashcam POV from inside the dashcam car at a busy urban intersection, dashboard visible at the bottom of the frame, muted natural colours, no heavy saturation, vertical 9:16. The dashcam car proceeds on a green light; a car from the side runs the red light and is T-boned directly in front of the dashcam car, debris scatters across the road, the dashcam car brakes hard and stops just short. A close, more dangerous accident than a near miss, the dashcam driver is not hurt, no blood, no graphic injury.",
+  "aspect_ratio": "9:16",
+  "duration": 10,
+  "status": "done",
+  "created_at": "2026-11-25T01:21:38.162830",
+  "updated_at": "2026-11-25T01:23:16Z",
+  "output_file": "video-094ce9ffe1c2.mp4",
+  "error": null,
+  "github_url": "https://raw.githubusercontent.com/Chirag862/muse-media-outputs/main/outputs/video-094ce9ffe1c2.mp4"
+}
